@@ -3,12 +3,15 @@ Excel Projects Portfolio
 
 Projects:-
 
-1. [Employee Performance Report](./MIS-Employee_Performance_Report/MIS-Employee_Performance_Report.xlsm)
-      [View README](./MIS-Employee_Performance_Report/README.md)
 
- 2. [Sales Target vs Achievement Dashboard](./MIS-Sales_Target_VS_Achievement_Report/MIS-Sales_Target_VS_Achievement_Report.xlsm)
-       [View README](./MIS-Sales_Target_VS_Achievement_Report/README.md)
+ Employee Performance Report  
+ [Download File](./MIS-Employee_Performance_Report/MIS-Employee_Performance_Report.xlsm)  
+ [View Project README](./MIS-Employee_Performance_Report/README.md)
 
+
+ Sales Target vs Achievement Dashboard  
+[Download File](./MIS-Sales_Target_VS_Achievement_Report/MIS-Sales_Target_VS_Achievement_Report.xlsm)  
+ [View Project README](./MIS-Sales_Target_VS_Achievement_Report/README.md)
 
 ⚠️ To enable macros:-
 1. Right-click file → Properties → Unblock → Apply  
